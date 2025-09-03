@@ -9,7 +9,7 @@ export default function App() {
   const [result, setResult] = useState<string | null>(null);
   const [error, setError] = useState("");
 
-  const api = "http://localhost:3001";
+  const api = "https://calculator-app-production-d50e.up.railway.app";
 
   async function handleCalculate(e: React.FormEvent) {
     e.preventDefault();
