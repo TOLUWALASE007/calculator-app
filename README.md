@@ -2,6 +2,8 @@
 
 A full-stack calculator application built with React, TypeScript, Tailwind CSS, Node.js, and Express.
 
+🚀 **Live Demo**: [https://toluwalase007.github.io/calculator-app/](https://toluwalase007.github.io/calculator-app/)
+
 ## 🚀 Features
 
 - ✨ **Modern UI** with Tailwind CSS styling
